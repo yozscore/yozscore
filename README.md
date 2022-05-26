@@ -2,7 +2,7 @@
 
 Aw geez, Rick. I-i-it's a GitHub profile, Rick. O-oh god, oh geez.
 
-![Kei](https://github.com/yozscore/yozscore/blob/main/images/kei.png)
+![Kei](https://github.com/yozscore/yozscore/blob/main/images/keiactage.png)
 
 I love programming! 011001 <-- That means I love programming but in binary (ascii) (i speak programmer).
 
