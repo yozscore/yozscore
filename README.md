@@ -9,3 +9,5 @@ I love programming! 1001010 <-- That means I love programming but in binary (asc
 ![What languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=yozscore&layout=compact&theme=tokyonight)
 
 *Image above is from Act-Age*
+
+*Please do not read Act-Age, the writer is a criminal*
